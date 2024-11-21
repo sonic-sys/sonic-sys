@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sonic-sys
+- 👀 I'm interested in learning the GO programming language
+- 🌱 I’m currently learning 
+- 📫 How to reach me ... github.01@mail.ru
